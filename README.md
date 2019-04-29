@@ -3,6 +3,8 @@
 
 # Introduction
 
+[Demonstration](https://youtu.be/Tb5iDYDCC1g)
+
 This is a project I wrote for my New Media Arts class. It involves the use of two Arduinos with one distance sensor each to measure the distance of a user's hand from the sensor. This in turn affects the music being generated in that the chords my change, or the sound may have a large amount of reverb applied. It is a demonstration of Computer Music, MIDI, and the possibilities of Interactive Media.
 
 # System Requirements
